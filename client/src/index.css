@@ -14,5 +14,9 @@
 }
 
 button{
-  height: 40px !important;
+  height: 50px !important;
+}
+input{
+  height: 40px !important ;
+ 
 }
